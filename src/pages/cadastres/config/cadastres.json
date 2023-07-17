@@ -1,0 +1,27 @@
+{
+  "columns": [
+    {
+      "label": "Nome",
+      "field": "name",
+      "align": "left",
+      "name": "name",
+      "sortable": true
+    },
+    {
+      "label": "CPF",
+      "field": "cpf",
+      "align": "left",
+      "name": "cpf"
+    },
+    {
+      "label": "Data de Nascimento",
+      "field": "born",
+      "align": "left",
+      "name": "born"
+    },
+    {
+      "name": "act",
+      "field": "act"
+    }
+  ]
+}
